@@ -1,4 +1,4 @@
-#Location-Search-Api
+# Location-Search-Api
 * This repository is the supporting repository for <strong>Location-Search-Login</strong>
 * This repository just starts the proxy server to provide the server side validation and doesn't contain any UI.
 * Enter command "git clone https://github.com/adithyamahesh596/Location-Search-Api.git" to clone this repository.
