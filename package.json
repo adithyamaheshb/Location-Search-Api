@@ -27,7 +27,7 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-react": "^7.4.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mongoose-unique-validator": "^1.0.6",
     "nodemon": "^1.12.1",
     "prettier": "^1.7.4"
